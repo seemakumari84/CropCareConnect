@@ -422,8 +422,8 @@
   object-fit: cover;
   display: none;
 }
-.component-8,
-.online-support {
+.component-8
+ {
   position: absolute;
   top: 0;
   left: 383px;
@@ -431,10 +431,8 @@
   height: 90px;
 }
 .online-support {
-  height: 100%;
-  width: 75.82%;
-  top: 4.65%;
-  left: 32.42%;
+position: absolute;  width: 75.82%;
+  top: 4.65%;  left: 720px;
   display: inline-block;
 }
 .online-support-icon {
